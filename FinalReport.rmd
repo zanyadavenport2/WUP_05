@@ -37,7 +37,11 @@ females <- filter(triUmp, gender == "F")
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+barchartGC(~infected + treatment,data=females)
+barchartGC(~class + Sex,data=ucdavis1, type="percent")
 
+```
 
 ## Inferential Results
 
