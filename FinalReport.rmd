@@ -48,7 +48,13 @@ According to chart one there are a lot more people with no symptoms than there i
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
+```{r}
+table1 <- xtabs(~infected + treatment, data=triUmp)
+rowPerc(table1)
+colPerc(table1)
+```
 
+Three fifths of the women who took the drug became infected. Based off this test we can see that the drug was ineffective in preventing aids.
 
 
 ## Inferential Results
