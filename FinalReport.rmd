@@ -67,11 +67,12 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-All test show that there are significant results when looking at the effectivness of this drug in preventing aids.
+All test show that there are significant results when looking at the effectiveness of this drug in preventing aids.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-When you look at the data more than 3/5 of the women who took the drug became infected with aids. Therfore this treament was ineffective in treating and preventing aids.
+When you look at the data more than 3/5 of the women who took the drug became infected with aids. All test show signifcant results in the effectiveness of this treatment. Therefore this treatment was ineffective in treating and preventing aids.
+
